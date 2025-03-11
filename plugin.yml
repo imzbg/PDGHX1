@@ -1,0 +1,8 @@
+name: PDGHX1
+authors: [imzbg]
+version: 1.4.5
+main: me.zbg.PDGHX1.Main
+description: Sistema de X1.
+depend: [Vault]
+commands:
+   x1:

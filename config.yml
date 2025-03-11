@@ -1,0 +1,39 @@
+﻿###Copyright imzbg.com & PDGH © 2020-XXXX
+###Todos os direitos reservados
+###Uso apenas para a CraftMania e usuários da imzbg.com
+###Caso você tenha acesso a esse sistema, você é privilegiado!
+#OBS: As Mensagens, money, permissões são configuradas por você mesmo!
+#OBS-2: Recomendo as mensagens definidas por padrão!
+Mensagens:
+   Console: '&3[Ⓧ①] &cApenas jogadores podem utilizar isso.'
+   Perm: '&3[Ⓧ①] &cVocê não tem permissão para isso.'
+   Ja tem: '&3[Ⓧ①] &cJá existe um convite ou x1 em andamento, aguarde.'
+   Sem duelo: '&3[Ⓧ①] &cNão tem um x1 acontecendo no momento.'
+   Sem duelo Player: '&3[Ⓧ①] &cVocê não tem desafios pendentes.'
+   Local nao setado: '&3[Ⓧ①] &cO local não foi setado.'
+   Nao ocorrendo: '&3[Ⓧ①] &cO X1 não está ocorrendo.'
+   Ja ocorrendo: '&3[Ⓧ①] &cO X1 já está ocorrendo.'
+   Teleportado: '&3[Ⓧ①] &aTeleportando para a Arena.'
+   Local setado: '&3[Ⓧ①] &aLocal setado com sucesso.'
+   Aguarde: '&3[Ⓧ①] &fo x1 começa em &a10 &fsegundos.'
+   Offline: '&3[Ⓧ①] &cEste jogador está offline.'
+   Liberado: '&3[Ⓧ①] &aVALENDO!!!.'
+   Colete: '&3[Ⓧ①] &aVocê tem 30 segundos para coletar os itens.'
+   Sem money: '&3[Ⓧ①] &cVocê ou o adversario não tem money suficiente. &a(5100$)'
+   Desafiou:
+    - '&3[Ⓧ①] &a{player1} &fvs &a{player2}'
+    - '&3[Ⓧ①] &fSera que &a{player2} &f aceita ou arrega?'
+   Recusou:
+    - '&3[Ⓧ①] &a{player1} &farregou o x1 de &a{player2}. '
+   Aceitou:
+    - '&3[Ⓧ①] &a{player1} &faceitou o x1 de &a{player2}. '
+   Ganhou:
+    - '&3[Ⓧ①] &a{player1} &fassassinou &a{player2} &fe venceu o x1'
+
+Money: 5100
+
+Locais:
+   Pos1: 'none'
+   Pos2: 'none'
+   Camarote: 'none'
+   Saida: 'none'
